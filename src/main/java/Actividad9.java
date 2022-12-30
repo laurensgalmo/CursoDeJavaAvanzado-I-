@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
 
-
 /*
 ACTIVIDAD 9:
 Lee un número por teclado y comprueba que este número es mayor o igual que
