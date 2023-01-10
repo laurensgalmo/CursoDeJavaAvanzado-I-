@@ -49,7 +49,6 @@ public class Actividad10 {
             System.out.println("Sábado es festivo"); 
             break;
             
-            
             case 7 :
             System.out.println("Domingo es festivo"); 
             break;
